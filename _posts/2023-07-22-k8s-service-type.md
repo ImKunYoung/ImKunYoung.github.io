@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: post
 title: 쿠버네티스 서비스 타입
 ---
+
 
 
 
