@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: API Gateway 무엇입니까?
 ---
 
